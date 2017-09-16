@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<table>
+
+    <row>
+		<id>1</id>
+        <item>banana</item>
+	</row>
+	
+    <row>
+		<id>2</id>
+        <item>apple</item>
+	</row>
+
+    <row>
+		<id>3</id>
+        <item>kale</item>
+	</row>
+	
+	<row>
+		<id>4</id>
+        <item>carrot</item>
+	</row>	
+
+</table>
